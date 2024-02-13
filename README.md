@@ -4,7 +4,8 @@ List of Zane Mooney's current (and future) academic publications.
 
 
 <h3>Understanding cybercrime: A three-generation approach </h3>
-https://iacis.org/iis/2022/3_iis_2022_25-35.pdf
+
+**PDF:** https://iacis.org/iis/2022/3_iis_2022_25-35.pdf
 
 **Citation:**
 Mooney, Z. R., Zhang, X., & Crabtree, J. D. (2022). Understanding cybercrime: A three-
